@@ -6,7 +6,7 @@
 * Q: How to manage user account? Each Bot can be accessed by differnt group of users?
 * Q: Is there the size limitation of uploaded PDF files?
 * Q: How to train the Bot using Web pages content?
-
+* Q: Does it support multimodal model such as LLaVA (Large Language and Vision Assistant)?
 
 ---
 
