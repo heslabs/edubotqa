@@ -1,7 +1,4 @@
-# EduBot
-
----
-### Training data
+## EduBot Training data
 
 #### AMBA
 * Arm Architecture Reference Manual for A-profile architecture
