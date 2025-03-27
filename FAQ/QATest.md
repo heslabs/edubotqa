@@ -10,7 +10,10 @@ Uploaded files: Arm Academic Access Datasheet
 * Q: Could you provide the all of the available IP of Cortex-A CPU in Arm Academic Access Datasheet?
 * AI: The provided text does not contain a comprehensive list of all available IPs for Cortex-A CPUs in the Arm Academic Access program. It mentions the Cortex-A5 processor.
 * Expected answers: Cortex-A5, Cortex-A9, Cortex-A53, .....
-  
+
+
+<img src="https://github.com/user-attachments/assets/24f9162b-51fe-4754-bad8-f7fcd55d969f" width=450>
+
 ---
 * Q: Could you provide the IP list for Cortex-A in Arm Academic Access Datasheet?
 * AI: The provided text does not contain the information. While it mentions the AAA program and access to tools like IP Explorer, it does not list specific Cortex-A IPs included within the program. It only broadly refers to System IP and access to evaluate solutions.
