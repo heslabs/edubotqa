@@ -20,8 +20,8 @@
 
 ---
 ### File: Book-2_PUF-based-Security-Solutions-and-Applications_2024 (2.39MB)
-Q: What are the key features for TPM (Trusted Platform Module)?
-AI: 
+* Q: What are the key features for TPM (Trusted Platform Module)?
+* AI: 
 ```
 According to the provided text, the key features for TPM (Trusted Platform Module) are:
 Encryption authentication: Authenticating encryption keys to ensure they are issued by trusted entities and remain intact.
