@@ -11,3 +11,8 @@
 
 <img src="https://github.com/user-attachments/assets/24f9162b-51fe-4754-bad8-f7fcd55d969f" width=650>
  
+---
+* Q: What is Cortex-A55 CPU processor?
+* AI: The Cortex-A55 processor is built on DynamIQ technology, designed for extreme scalability in constrained environments and features the latest Armv8-A architecture extensions. These extensions introduce new NEON instructions for machine learning, advanced safety features, and more support for Reliability, Accessibility and Serviceability (RAS).
+
+<img src="https://github.com/user-attachments/assets/d7872ead-24c1-4073-93e1-ff844f9d15f7" width=650>
