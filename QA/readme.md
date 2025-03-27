@@ -1,4 +1,4 @@
-### Qeustion from customer
+### FAQ
 
 * Q: What is the runtime speed for this Bot? the time to first token nd token rate
 * Q: How to measure the accuracy if Bot and what is benchmark result for the accuracy?
