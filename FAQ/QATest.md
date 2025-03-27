@@ -28,6 +28,6 @@ Encryption authentication: Authenticating encryption keys to ensure they are iss
 Encryption protection: Protecting encryption keys and sensitive information to prevent unauthorized access.
 ```
 
-<img src="https://github.com/user-attachments/assets/d54ecb84-6351-478a-b3b5-0b8b7a4cb4b9" width=650>
+<img src="https://github.com/user-attachments/assets/d54ecb84-6351-478a-b3b5-0b8b7a4cb4b9" width=450>
 
 
