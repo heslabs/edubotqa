@@ -14,3 +14,6 @@ Encryption protection: Protecting encryption keys and sensitive information to p
 * File: Book-2_PUF-based-Security-Solutions-and-Applications_2024 (2.39MB)
 * Q: What is the primary cryptographic function of non-repudiation?
 * AI: ```The primary cryptographic function of non-repudiation allows confirmation that the claimed author of the data is in fact the one who created it. It is necessary to establish trust and prevent disputes over the validity of actions or information.```
+* Page 127
+
+<img src="https://github.com/user-attachments/assets/c6df5a64-7549-4903-bc15-6693024fccf8" width=450>
