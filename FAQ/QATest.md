@@ -12,7 +12,7 @@ Uploaded files: Arm Academic Access Datasheet
 * Expected answers: Cortex-A5, Cortex-A9, Cortex-A53, .....
 
 
-<img src="https://github.com/user-attachments/assets/24f9162b-51fe-4754-bad8-f7fcd55d969f" width=450>
+<img src="https://github.com/user-attachments/assets/24f9162b-51fe-4754-bad8-f7fcd55d969f" width=650>
 
 ---
 * Q: Could you provide the IP list for Cortex-A in Arm Academic Access Datasheet?
