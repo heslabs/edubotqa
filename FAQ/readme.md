@@ -11,4 +11,4 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/f456ee2c-d3f5-41bf-a15d-bdbf4badf633" width=650>
+<img src="https://github.com/user-attachments/assets/f456ee2c-d3f5-41bf-a15d-bdbf4badf633" width=850>
