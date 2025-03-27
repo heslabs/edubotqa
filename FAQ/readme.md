@@ -7,6 +7,7 @@
 * Q: Is there the size limitation of uploaded PDF files?
 * Q: How to train the Bot using Web pages content?
 * Q: Does it support multimodal model such as LLaVA (Large Language and Vision Assistant)?
+* Q: Can the Chatbot recognize the information in the table? such as in Arm Academic Access Daatsheet?
 
 ---
 
