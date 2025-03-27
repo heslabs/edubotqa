@@ -1,11 +1,11 @@
 ## EduBot  
 
 * FAQ
-  
+    * https://github.com/heslabs/edubotqa/tree/main/FAQ
 * AAA QA
-  
+    * https://github.com/heslabs/edubotqa/blob/main/FAQ/PUF.md 
 * PUF QA
-  * https://github.com/heslabs/edubotqa/blob/main/FAQ/PUF.md
+    * https://github.com/heslabs/edubotqa/blob/main/FAQ/PUF.md
 
 ## EduBot Training data
 
