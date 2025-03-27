@@ -5,7 +5,7 @@
 ---
 * File: AMBA® AXI and ACE Protocol Specification AMBA® 5 CHI Architecture Specification
 * Q: What is key feature of AMBA CHI bus protocol?
-AI:  ```A key feature of the AMBA CHI bus protocol is that it supports cache stashing requests, allowing I/O coherent AXI Managers to request data be stashed in fully coherent Managers. However, caches or system components can choose to ignore the stash part of a request – it’s a hint, not a requirement.```
+* AI:  ```A key feature of the AMBA CHI bus protocol is that it supports cache stashing requests, allowing I/O coherent AXI Managers to request data be stashed in fully coherent Managers. However, caches or system components can choose to ignore the stash part of a request – it’s a hint, not a requirement.```
 
 --- 
 * File: Arm Academic Access Datasheet [PDF](https://www.arm.com/-/media/Files/pdf/research/arm-academic-access-aaa-data-sheet.pdf?rev=f7f30db78c3b482c82afda5852e8192e&revision=f7f30db7-8c3b-482c-82af-da5852e8192e)
