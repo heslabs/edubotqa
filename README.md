@@ -1,6 +1,7 @@
 ## EduBot  
 
 * FAQ: https://github.com/heslabs/edubotqa/tree/main/FAQ
+* SoCLabs QA: https://github.com/heslabs/edubotqa/blob/main/FAQ/SoCLabs.md
 * AAA QA: https://github.com/heslabs/edubotqa/blob/main/FAQ/AAA.md
 * PUF QA: https://github.com/heslabs/edubotqa/blob/main/FAQ/PUF.md
 
