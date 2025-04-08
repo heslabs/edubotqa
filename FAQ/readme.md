@@ -10,6 +10,8 @@
 * Q: Can the Chatbot recognize the information in the table? such as in Arm Academic Access Daatsheet?
 * Q: Does the custom Bot include the features of Foundation model?
 * Q: How to train the Bot with staged process? Uploading the data into existing custom Bot
+* Q: How to do the offline updates?
+* Q: WHy use the Llama 29B model?
 
 ---
 
